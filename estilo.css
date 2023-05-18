@@ -1,8 +1,7 @@
 *{
     margin: 0;
-    box-shadow: #634713;
-    
-    background-color:#634713;
+    box-sizing: border-box;
+    background-color:hsl(271, 37%, 13%);
 }
 
 body{
